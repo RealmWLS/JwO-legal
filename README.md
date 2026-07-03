@@ -5,8 +5,7 @@ Bot ID: 1388857192228065330
 Creation Date: June 29, 2025
 Launch Date: September 12, 2025
 
-Creators and Developers: RealmWLS, Vampire
-Owners: Fortune, Arbaz
+Owners:- RealmWLS, Vampire,Fortune, Arbaz
 
 About
 
