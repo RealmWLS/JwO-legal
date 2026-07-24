@@ -1,38 +1,34 @@
+OWNERSHIP.txt
+
 Bot Name: JWO
 Bot ID: 1388857192228065330
 Creation Date: June 29, 2025
 Launch Date: September 12, 2025
-
 Creators and Developers: RealmWLS, Vampire
 Owners: Fortune, Arbaz
 Contact Email: jwobot.team@gmail.com
 
-Ownership Declaration
+OWNERSHIP DECLARATION
 
-This document certifies that RealmWLS and Vampire are the original creators and developers, and Fortune and Arbaz are the legal owners of the Discord bot known as “JWO”.
+This document certifies that RealmWLS and Vampire are the original creators and developers, and that Fortune and Arbaz are the legal owners, of the Discord bot known as "JWO."
 
-JWO is an independently developed and privately owned software project.
+JWO is an independently developed and privately owned software project. All rights, access, control, and decision-making authority concerning JWO remain exclusively with the listed creators, owners, and internal management team. No other individual, group, organization, or entity holds any ownership interest, licensing rights, operational control, management authority, or legal responsibility relating to JWO unless expressly granted in writing by the legal owners.
 
-Any reference to “Rexlight Studio” is for name or identification purposes only. Rexlight Studio has no authorization, ownership interest, licensing rights, operational control, management authority, or legal responsibility relating to JWO.
+SCOPE OF OWNERSHIP
 
-All rights, access, control, and decision-making authority concerning JWO remain exclusively with the listed creators, owners, and internal management.
+Ownership includes, but is not limited to: original source code, system architecture, command logic, algorithms, economy systems, progression mechanics, backend infrastructure, databases, branding assets, artwork, images, banners, descriptive content, bot behavior, and custom interactive features. This scope extends to all present and future versions, updates, and derivative improvements of JWO created by the listed creators and owners.
 
-Scope of Ownership
+LEGAL PROTECTION
 
-Ownership includes, but is not limited to, original source code, system architecture, command logic, algorithms, economy systems, progression mechanics, backend infrastructure, databases, branding assets, artwork, images, banners, descriptive content, bot behavior, and custom interactive features.
+JWO is protected under applicable copyright law, including the Berne Convention, the WIPO Copyright Treaty, and other applicable national and international treaties and statutes, in every jurisdiction where such protection exists.
 
-Legal Protection
+The source code is private, unpublished, and maintained as a trade secret. No license, express or implied, is granted to any third party to access, use, copy, modify, distribute, host, or commercially exploit JWO or any of its components. Unauthorized copying, modification, distribution, imitation, reverse-engineering, decompiling, rebranding, rehosting, or commercial use of JWO is strictly prohibited and may result in platform enforcement actions, takedowns, cease-and-desist notices, and civil or criminal liability under applicable law.
 
-JWO is protected under international copyright law, including the Berne Convention and other applicable treaties and statutes.
+LEGAL STANDING
 
-The source code is private and unpublished. Any unauthorized copying, modification, distribution, imitation, reverse-engineering, or commercial use is strictly prohibited and may result in platform enforcement actions, takedowns, and civil liability in applicable jurisdictions.
-
-Legal Standing
-
-This document serves as formal evidence of authorship and ownership. No third party, organization, or studio, including Rexlight Studio, may claim rights, authority, responsibility, or affiliation with JWO unless expressly granted in writing by the legal owners.
+This document serves as formal evidence of authorship and ownership. Commit history, timestamps, internal development records, and related documentation may be submitted as supporting evidence in the event of a dispute. No third party, organization, or studio may claim rights, authority, responsibility, or affiliation with JWO unless expressly granted in writing by the legal owners.
 
 Signed,
 RealmWLS and Vampire (Creators and Developers)
 Fortune and Arbaz (Owners)
-
 Date: October 1, 2025
