@@ -13,8 +13,6 @@ This repository contains private source code and legal documentation for the Dis
 
 All access, development, administration, hosting, monetization, moderation, decision-making, and operational control of JWO are handled exclusively by the JWO creators, owners, and internal management team.
 
-Relationship to Rexlight Studio
-
 JWO is an independent project. No partnership, joint venture, agency, employment relationship, sponsorship, endorsement, or legal affiliation exists between JWO and Rexlight Studio.
 
 Rexlight Studio holds no intellectual property rights, licensing authority, or operational rights over JWO and bears no legal, financial, or contractual liability arising from the bot’s use, distribution, or operation.
