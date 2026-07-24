@@ -11,8 +11,6 @@ About
 
 This repository contains private source code and legal documentation for the Discord bot known as “JWO”. JWO is a privately owned software project and is not open source.
 
-Any reference to the name “Rexlight Studio” is strictly for naming, labeling, or identification purposes only. Rexlight Studio does not own, operate, authorize, license, publish, distribute, manage, maintain, control, sponsor, endorse, or assume responsibility for JWO in any capacity.
-
 All access, development, administration, hosting, monetization, moderation, decision-making, and operational control of JWO are handled exclusively by the JWO creators, owners, and internal management team.
 
 Relationship to Rexlight Studio
