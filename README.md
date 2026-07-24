@@ -1,41 +1,49 @@
-JWO Discord Bot
+# JWO Discord Bot
 
-Bot Name: JWO
-Bot ID: 1388857192228065330
-Creation Date: June 29, 2025
-Launch Date: September 12, 2025
+**Bot Name:** JWO
+**Bot ID:** 1388857192228065330
+**Creation Date:** June 29, 2025
+**Launch Date:** September 12, 2025
+**Owners:** RealmWLS, Vampire, Fortune, Arbaz
 
-Owners:- RealmWLS, Vampire,Fortune, Arbaz
+## About
 
-About
+This repository contains the legal documentation for the Discord bot known as "JWO." It does not contain any source code. JWO is a privately owned software project. It is not open source, and no portion of it is released into the public domain.
 
-This repository contains private source code and legal documentation for the Discord bot known as “JWO”. JWO is a privately owned software project and is not open source.
+All access, development, administration, hosting, monetization, moderation, decision-making, and operational control of JWO are handled exclusively by the JWO creators, owners, and internal management team. JWO is an independent project. No partnership, joint venture, agency relationship, employment relationship, sponsorship, or endorsement is implied or granted by anything in this repository.
 
-All access, development, administration, hosting, monetization, moderation, decision-making, and operational control of JWO are handled exclusively by the JWO creators, owners, and internal management team.
+## License and Intellectual Property
 
-JWO is an independent project. No partnership, joint venture, agency, employment relationship, sponsorship, endorsement, or legal affiliation exists between JWO and Rexlight Studio.
+All source code, systems, logic, databases, formulas, command structures, features, workflows, behavior, and branding associated with JWO, including but not limited to the bot name, avatar, icon, visual assets, embeds, descriptions, documentation, and design elements, are the sole and exclusive intellectual property of the JWO creators and owners. They are protected as trade secrets and original works of authorship to the fullest extent permitted by law.
 
-Rexlight Studio holds no intellectual property rights, licensing authority, or operational rights over JWO and bears no legal, financial, or contractual liability arising from the bot’s use, distribution, or operation.
+**No license is granted.** This project is not licensed for public use, redistribution, sublicensing, or modification of any kind. No rights are granted by implication, estoppel, or otherwise under any patent, trademark, copyright, or trade secret. Access to this repository, including public visibility if any, does not constitute permission to use, copy, or reference any part of JWO.
 
-License and Intellectual Property
+The following, without limitation, are strictly prohibited without prior written consent from the owners:
 
-All source code, systems, logic, databases, formulas, command structures, features, behavior, and branding associated with JWO, including but not limited to the bot name, visual assets, descriptions, and design elements, are the exclusive intellectual property of the JWO creators and owners.
+- Copying, reproducing, or storing any part of JWO's code, structure, or data
+- Modifying, reverse-engineering, decompiling, or disassembling JWO
+- Creating derivative works, forks, clones, or "rewrites" based on JWO
+- Rebranding, renaming, or redistributing JWO under a different identity
+- Hosting, deploying, or operating any instance or copy of JWO
+- Reselling, sublicensing, or commercially exploiting JWO or its components
+- Imitating JWO's name, branding, commands, or behavior in a way likely to cause confusion
 
-This project is not licensed for public use, redistribution, or modification.
+Violation of any of the above constitutes copyright infringement and misappropriation of trade secrets, and may result in civil and, where applicable, criminal liability.
 
-Unauthorized copying, reproduction, modification, reverse-engineering, imitation, redistribution, hosting, resale, or creation of derivative works is strictly prohibited.
+JWO is protected under applicable copyright law, including the Berne Convention, the WIPO Copyright Treaty, and all applicable national and international intellectual property laws, in every jurisdiction where such protection exists, regardless of where JWO or an infringing party is located or hosted.
 
-JWO is protected under international copyright law, including the Berne Convention and all applicable national and international intellectual property laws, regardless of jurisdiction.
+## Ownership Proof
 
-Ownership Proof
+Authorship and ownership are documented in the `OWNERSHIP.txt` file. Commit history, timestamps, internal development records, and related evidence may be used to establish original creation and ownership in the event of a dispute.
 
-Authorship and ownership are documented in the OWNERSHIP.txt file. Commit history, timestamps, and related records may be used as legal evidence of original creation and ownership.
+## Disclaimer of Liability
 
-Reporting Infringement
+JWO is provided "as is," without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. Use of JWO is subject to Discord's Terms of Service and Community Guidelines. The owners and creators of JWO are not liable for any direct, indirect, incidental, or consequential damages arising from the use, misuse, or unavailability of the bot.
 
-Any unauthorized use, imitation, or reproduction of JWO may be reported to Discord Trust and Safety or relevant platform providers. Enforcement may include takedowns and legal action under applicable laws.
+## Reporting Infringement
 
-Contact
+Any unauthorized use, copying, imitation, or reproduction of JWO should be reported immediately to Discord Trust & Safety or other relevant platform providers. The owners reserve the right to pursue takedown requests, cease-and-desist notices, and legal action under applicable copyright, trade secret, and unfair competition law against any infringing party.
 
-For legal or copyright inquiries:
-Email: jwobot.team@gmail.com
+## Contact
+
+For legal or copyright inquiries: **jwobot.team@gmail.com**
